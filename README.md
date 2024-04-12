@@ -9,6 +9,7 @@ pip install psycopg2
 pip install djangorestframework
 pip install markdown
 pip install django-filter
+pip install djangorestframework-simplejwt
 django-admin startproject <projectName>
 cd <projectName>
 python manage.py startapp <appName>
